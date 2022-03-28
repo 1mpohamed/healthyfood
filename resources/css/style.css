@@ -80,10 +80,9 @@ header {
     left: 50%;
     transform: translate(-50%,-50%); }
     .logo { 
-        width: 60px;
+        width: 70px;
         height: auto;
         float: left;
-        margin-top: 20px;
     }
     
 .main-nav {
